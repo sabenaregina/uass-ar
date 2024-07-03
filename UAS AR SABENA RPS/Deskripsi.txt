@@ -1,0 +1,17 @@
+Judul
+Aplikasi "3D Zoo Card"
+
+Deskripsi
+Aplikasi "3D Zoo Card" adalah sebuah aplikasi edukatif interaktif yang dirancang untuk membawa pengalaman kebun binatang langsung ke genggaman tangan Anda. Menggunakan teknologi augmented reality (AR), aplikasi ini memungkinkan pengguna untuk menjelajahi berbagai hewan dalam lingkungan 3D yang menakjubkan.
+
+Fitur Utama:
+
+Kartu AR 3D Interaktif: Pengguna dapat memindai kartu khusus dengan perangkat mereka untuk melihat hewan-hewan muncul dalam bentuk 3D di layar. Setiap kartu menampilkan hewan yang berbeda, lengkap dengan informasi menarik dan suara hewan tersebut.
+
+Pendidikan dan Hiburan: Aplikasi ini tidak hanya menghibur tetapi juga mendidik. Setiap hewan dilengkapi dengan fakta-fakta menarik, habitat aslinya, kebiasaan makan, dan banyak lagi. Ini membantu anak-anak dan pengguna lainnya belajar sambil bermain.
+
+Permainan Edukatif: Selain menampilkan hewan-hewan, aplikasi ini juga menawarkan berbagai permainan edukatif seperti kuis tentang hewan, puzzle interaktif, dan misi pencarian yang melibatkan hewan-hewan di kebun binatang.
+
+Eksplorasi Kebun Binatang Virtual: Pengguna dapat berjalan-jalan secara virtual di kebun binatang, melihat berbagai habitat hewan, dan belajar lebih banyak tentang konservasi dan pentingnya menjaga kelestarian satwa liar.
+
+"3D Zoo Card" adalah aplikasi yang sempurna bagi orang tua yang ingin memberikan pengalaman belajar yang menyenangkan bagi anak-anak mereka, serta bagi siapa saja yang tertarik dengan dunia hewan dan teknologi AR. Dengan menggabungkan edukasi dan pengguna merasakan pengalaman seolah-olah mereka berada di kebun binatang sungguhan. Animasi yang halus dan efek suara yang autentik semakin menambah kesan hidup dan interaktif.
